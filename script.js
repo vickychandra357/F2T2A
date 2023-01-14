@@ -13,7 +13,7 @@ let tableBodyContent = document.getElementById('tableBody'); //storing the table
 
 addBtnEl.addEventListener("click", addUserFunction);
 
-// Add User function---------------------------------------------------------------------------------------------------------------------------
+// Add User function---------------------------  ------------------------------------------------------------------------------------------------
 function addUserFunction() {
   let namee = nameEl.value;
   let profession = professionEl.value;
